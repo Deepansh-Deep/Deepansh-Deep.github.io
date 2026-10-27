@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://deepansh-deep.github.io/sitemap-index.xml

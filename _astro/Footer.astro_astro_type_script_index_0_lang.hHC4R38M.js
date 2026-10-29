@@ -1,0 +1,1 @@
+import{g as o,S as t}from"./ScrollTrigger.C8IefbVz.js";import{m as e}from"./env.BKlmAvWq.js";o.registerPlugin(t);const r=document.querySelector("[data-footer-mark]");r&&(e?o.fromTo(r,{"--fill":"0%"},{"--fill":"100%",ease:"none",scrollTrigger:{trigger:r,start:"top bottom",end:"bottom bottom",scrub:!0}}):r.style.setProperty("--fill","100%"));
